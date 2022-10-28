@@ -1,0 +1,16 @@
+{
+  "name": "myOwnPeripheral",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "bleno": "^0.5.1-4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
